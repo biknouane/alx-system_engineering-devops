@@ -10,3 +10,5 @@
     * this project shows us how to display current directory contents including hidden files in along format.
 6. I love numbers
     * this project shows us how to display current directory contents with user and group IDs displayed numerically in a long format.
+7. Welcome
+    * this project shows us how to create a directory in the /tmp folder
