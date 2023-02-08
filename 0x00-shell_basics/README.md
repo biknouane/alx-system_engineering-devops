@@ -11,4 +11,6 @@
 6. I love numbers
     * this project shows us how to display current directory contents with user and group IDs displayed numerically in a long format.
 7. Welcome
-    * this project shows us how to create a directory in the /tmp folder
+    * this project shows us how to create a directory in the /tmp folder.
+8. Betty in my first directory
+    * this project shows us how to move a file named "betty" to /tmp/my-first-directory.
