@@ -14,3 +14,5 @@
     * this project shows us how to create a directory in the /tmp folder.
 8. Betty in my first directory
     * this project shows us how to move a file named "betty" to /tmp/my-first-directory.
+9. Bye bye Betty
+    * this project shows us how to delet a file named "betty" in /tmp/my-first-directory.
