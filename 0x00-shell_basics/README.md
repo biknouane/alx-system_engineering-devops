@@ -6,3 +6,5 @@
     * this project shows us how to change the working directory to the user's home directory.
 4. The long format
     * this project shows us how to display current directory contents in a long format.
+5. Hidden files
+    * this project shows us how to displey current directory contents including hidden files in along format.
