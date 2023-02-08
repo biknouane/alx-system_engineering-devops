@@ -7,4 +7,6 @@
 4. The long format
     * this project shows us how to display current directory contents in a long format.
 5. Hidden files
-    * this project shows us how to displey current directory contents including hidden files in along format.
+    * this project shows us how to display current directory contents including hidden files in along format.
+6. I love numbers
+    * this project shows us how to display current directory contents with user and group IDs displayed numerically in a long format.
