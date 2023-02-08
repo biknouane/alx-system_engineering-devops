@@ -16,3 +16,5 @@
     * this project shows us how to move a file named "betty" to /tmp/my-first-directory.
 9. Bye bye Betty
     * this project shows us how to delet a file named "betty" in /tmp/my-first-directory.
+10. Bye bye my first directory
+    * this project shows us how to delet the folder "my first directry" in /tmp.
