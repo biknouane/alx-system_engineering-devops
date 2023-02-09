@@ -34,3 +34,5 @@
     * this project shows us how to Create a script that deletes all files in the current working directory that end with the character ~.
 18. Tree
     * this project shows us how to Create a script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory.
+19. Life is a series of commas, not periods
+    * this project shows us how to Write a command that lists all the files and directories of the current directory, separated by commas (,).
